@@ -1,0 +1,9 @@
+*.pyc
+.DS_Store
+.vscode/
+.venv
+/dist/
+__pycache__
+
+json
+/result.json
